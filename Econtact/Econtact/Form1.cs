@@ -62,7 +62,7 @@ namespace Econtact
                 //Successfully Inserted
                 MessageBox.Show("New Contact Successfully Inserted");
                 //Call the Clear Method Here
-                //Clear();
+                Clear();
             }
             else
             {
@@ -87,18 +87,18 @@ namespace Econtact
             this.Close();
         }
 
-        /*
+        
         //Method to Clear Fields
         public void Clear()
         {
-            txtboxFirstName.Text = "";
-            txtboxLastName.Text = "";
-            txtBoxContactNumber.Text = "";
-            txtBoxAddress.Text = "";
-            cmbGender.Text = "";
-            txtboxContactID.Text = "";
+            textBoxContactID.Text = "";
+            textBoxfirstname.Text = "";
+            textBoxlastname.Text = "";
+            textBoxcontactNO.Text = "";
+            textBoxaddress.Text = "";
+            comboBoxgender.Text = "";
         }
-
+        /*
         private void btnUpdate_Click(object sender, EventArgs e)
         {
             //Get the Data from textboxes
