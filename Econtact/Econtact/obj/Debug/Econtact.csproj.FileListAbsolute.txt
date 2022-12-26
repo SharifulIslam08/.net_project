@@ -1,0 +1,11 @@
+F:\C#\cc\Econtact\Econtact\bin\Debug\Econtact.exe.config
+F:\C#\cc\Econtact\Econtact\bin\Debug\Econtact.exe
+F:\C#\cc\Econtact\Econtact\bin\Debug\Econtact.pdb
+F:\C#\cc\Econtact\Econtact\obj\Debug\Econtact.csproj.AssemblyReference.cache
+F:\C#\cc\Econtact\Econtact\obj\Debug\Econtact.csproj.SuggestedBindingRedirects.cache
+F:\C#\cc\Econtact\Econtact\obj\Debug\Econtact.Econtact.resources
+F:\C#\cc\Econtact\Econtact\obj\Debug\Econtact.Properties.Resources.resources
+F:\C#\cc\Econtact\Econtact\obj\Debug\Econtact.csproj.GenerateResource.cache
+F:\C#\cc\Econtact\Econtact\obj\Debug\Econtact.csproj.CoreCompileInputs.cache
+F:\C#\cc\Econtact\Econtact\obj\Debug\Econtact.exe
+F:\C#\cc\Econtact\Econtact\obj\Debug\Econtact.pdb
